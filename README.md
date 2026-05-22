@@ -3,14 +3,8 @@ Final project for the NLP course of the PPGCC at UFG, using the article "BERT on
 
 # Clone
 
-- 1. Clone repository:
 ```sh
 git clone https://github.com/UFG-PPGCC-NLP-Final-Project/movie-recommender.git
-```
-
-- 2. Configure repository:
-```sh
-cd movie-recommender && chmod +x getting-started.sh && ./getting-started.sh && chmod +x git-config-local-default.sh && ./git-config-local-default.sh
 ```
 
 # Reference Article
@@ -42,4 +36,4 @@ Alex Ferreira de Almeida
 Danillo Guimarães  
 
 # License
-Copyright © 2025 - All rights reserved.
+[MIT License](LICENSE)
