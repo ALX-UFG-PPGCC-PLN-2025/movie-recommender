@@ -4,7 +4,7 @@ Final project for the NLP course of the PPGCC at UFG, using the article "BERT on
 ## Clone
 
 ```sh
-git clone https://github.com/UFG-PPGCC-NLP-Final-Project/movie-recommender.git
+git clone https://github.com/ALX-UFG-PPGCC-PLN-2025/movie-recommender.git
 ```
 
 ## Reference Article
